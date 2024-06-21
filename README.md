@@ -4,7 +4,7 @@
 
 <br></br>
 ### Dataset: 
-#### https://github.com/shreyash04/Credit-Card-Complaints-Analytics/blob/main/Credit%20Card%20Complaints.xlsx
+#### https://github.com/shreyash04/Credit-Card-Complaints-Analytics/blob/main/Credit Card Complaints.xlsx
 <br></br>
 ### Tableau Visualization Screenshot
 <img src="https://github.com/shreyash04/Credit-Card-Complaints-Analytics/blob/main/CC%20Complaints%20Dashboard.png">
